@@ -1,7 +1,7 @@
 [
     {
         "source_rel_url" : "Boyombo1/dataEngineering/blob/main/AdventureWorks_Product_Categories.csv",
-        "pp_sink_foldername" : "AdventureWorks_Product_Categories",
+        "p_sink_foldername" : "AdventureWorks_Product_Categories",
         "p_sink_filename" : "AdventureWorks_Product_Categories.csv"
     },
     {
