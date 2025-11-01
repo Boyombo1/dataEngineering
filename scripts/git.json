@@ -1,51 +1,51 @@
 [
     {
-        "source_rel_url" : "Boyombo1/dataEngineering/blob/main/AdventureWorks_Product_Categories.csv",
+        "source_rel_url" : "Boyombo1/dataEngineering/main/AdventureWorks_Product_Categories.csv",
         "p_sink_foldername" : "AdventureWorks_Product_Categories",
         "p_sink_filename" : "AdventureWorks_Product_Categories.csv"
     },
     {
-        "source_rel_url" : "Boyombo1/dataEngineering/blob/main/AdventureWorks_Calendar.csv",
+        "source_rel_url" : "Boyombo1/dataEngineering/main/AdventureWorks_Calendar.csv",
         "p_sink_foldername" : "AdventureWorks_Calendar",
         "p_sink_filename" : "AdventureWorks_Calendar.csv"
     },
     {
-        "source_rel_url" : "Boyombo1/dataEngineering/blob/main/AdventureWorks_Customers.csv",
+        "source_rel_url" : "Boyombo1/dataEngineering/main/AdventureWorks_Customers.csv",
         "p_sink_foldername" : "AdventureWorks_Customers",
         "p_sink_filename" : "AdventureWorks_Customers.csv"
     },
     {
-        "source_rel_url" : "Boyombo1/dataEngineering/blob/main/AdventureWorks_Product_Subcategories.csv",
+        "source_rel_url" : "Boyombo1/dataEngineering/main/AdventureWorks_Product_Subcategories.csv",
         "p_sink_foldername" : "Product_Subcategories",
         "p_sink_filename" : "AdventureWorks_Product_Subcategories.csv"
     },
     {
-        "source_rel_url" : "Boyombo1/dataEngineering/blob/main/AdventureWorks_Products.csv",
+        "source_rel_url" : "Boyombo1/dataEngineering/main/AdventureWorks_Products.csv",
         "p_sink_foldername" : "AdventureWorks_Products",
         "p_sink_filename" : "AdventureWorks_Products.csv"
     },
     {
-        "source_rel_url" : "Boyombo1/dataEngineering/blob/main/AdventureWorks_Returns.csv",
+        "source_rel_url" : "Boyombo1/dataEngineering/main/AdventureWorks_Returns.csv",
         "p_sink_foldername" : "AdventureWorks_Returns",
         "p_sink_filename":"AdventureWorks_Returns.csv"
     },
     {
-        "source_rel_url" : "Boyombo1/dataEngineering/blob/main/AdventureWorks_Sales_2015.csv",
+        "source_rel_url" : "Boyombo1/dataEngineering/main/AdventureWorks_Sales_2015.csv",
         "p_sink_foldername" : "AdventureWorks_Sales_2015",
         "p_sink_filename" : "AdventureWorks_Sales_2015.csv"
     },
     {
-        "source_rel_url" : "Boyombo1/dataEngineering/blob/main/AdventureWorks_Sales_2016.csv",
+        "source_rel_url" : "Boyombo1/dataEngineering/main/AdventureWorks_Sales_2016.csv",
         "p_sink_foldername" : "AdventureWorks_Sales_2016",
         "p_sink_filename" : "AdventureWorks_Sales_2016.cvsv"
     },
     {
-        "source_rel_url" : "Boyombo1/dataEngineering/blob/main/AdventureWorks_Sales_2017.csv",
+        "source_rel_url" : "Boyombo1/dataEngineering/main/AdventureWorks_Sales_2017.csv",
         "p_sink_foldername" : "AdventureWorks_Sales_2017",
         "p_sink_filename" : "AdventureWorks_Sales_2017.csv"
     },
     {
-        "source_rel_url" : "Boyombo1/dataEngineering/blob/main/AdventureWorks_Territories.csv",
+        "source_rel_url" : "Boyombo1/dataEngineering/main/AdventureWorks_Territories.csv",
         "p_sink_foldername" : "AdventureWorks_Territories",
         "p_sink_filename" : "AdventureWorks_Territories.csv"
     }
